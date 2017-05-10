@@ -20,6 +20,7 @@ public class Kelompok7 {
  
         for (int i=0; i<10; i++)
             System.out.println("Mie dok-dok lebih enak");
+            System.out.println("Magelangan dong A!");
     }
     
 }
