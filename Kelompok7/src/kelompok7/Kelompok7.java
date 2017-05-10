@@ -17,6 +17,8 @@ public class Kelompok7 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Mie goreng enak");
+        System.out.println("Mie dok-dok lebih enak");
+        
     }
     
 }
