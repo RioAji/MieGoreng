@@ -10,10 +10,10 @@ public class Kelompok7 {
 
         // TODO code application logic here
  
-        for (int i=0; i<10; i++)
+        for (int i=0; i<10; i++) {
             System.out.println("Mie dok-dok lebih enak");
             System.out.println("Magelangan dong A!");
             System.out.println("BAles dong eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+        }
     }
-    while i++++++;
 }
