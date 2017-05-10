@@ -1,14 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package kelompok7;
 
-/**
- *
- * @author Kashva Hurairah
- */
 public class Kelompok7 {
 
     /**
@@ -21,6 +13,7 @@ public class Kelompok7 {
         for (int i=0; i<10; i++)
             System.out.println("Mie dok-dok lebih enak");
             System.out.println("Magelangan dong A!");
+            System.out.println("BAles dong eaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
     }
-    
+    while i++++++;
 }
